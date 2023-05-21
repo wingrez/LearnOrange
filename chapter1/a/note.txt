@@ -1,0 +1,2 @@
+nasm boot.asm -o boot.img
+VMware软件装载软盘映像文件boot.img启动
